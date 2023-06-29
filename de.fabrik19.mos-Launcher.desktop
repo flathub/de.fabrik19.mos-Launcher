@@ -2,7 +2,7 @@
 Type=Application
 
 Name=mos. Launcher
-Comment=Used for developing with the Mobilitysuite.
+Comment=Used for developing with the Mobilitysuite
 Categories=Development;IDE;
 
 Icon=de.fabrik19.mos-Launcher

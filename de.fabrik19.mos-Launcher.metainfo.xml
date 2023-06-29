@@ -19,7 +19,13 @@
 
     <screenshots>
         <screenshot type="default">
-            <image>https://download.mobilitysuite.de/launcher/launcher.png</image>
+            <image>https://download.mobilitysuite.de/launcher/launcher2.1.0-1.png</image>
+        </screenshot>
+        <screenshot>
+            <image>https://download.mobilitysuite.de/launcher/launcher2.1.0-2.png</image>
+        </screenshot>
+        <screenshot>
+            <image>https://download.mobilitysuite.de/launcher/launcher2.1.0-3.png</image>
         </screenshot>
     </screenshots>
 
@@ -28,6 +34,11 @@
 
     <launchable type="desktop-id">de.fabrik19.mos-Launcher.desktop</launchable>
     <releases>
+        <release version="2.1.0" date="2023-06-28">
+            <description>
+                <p>mos. Launcher has undergone a design overhaul to enhance user experience and accommodate new and upcoming features.</p>
+            </description>
+        </release>
         <release version="2.0.8" date="2023-06-20"/>
     </releases>
 </component>
