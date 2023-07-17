@@ -27,12 +27,12 @@ modules:
       - install -D de.fabrik19.mos-Launcher.metainfo.xml /app/share/metainfo/de.fabrik19.mos-Launcher.metainfo.xml
     sources:
       - type: archive
-        url: https://download.mobilitysuite.de/launcher/linux-x64-2.1.0.tar.gz
-        sha256: 0bd23a4fc9194b0df901538fce464bc3fdd841936d2baaef9131e3d408b7c1c4
+        url: https://download.mobilitysuite.de/launcher/linux-x64-2.1.1.tar.gz
+        sha256: 17acb52b9e601e728e3fa08271292e4c142bb0d96a16a3ec25873436fd65690a
         only-arches: [x86_64]
       - type: archive
-        url: https://download.mobilitysuite.de/launcher/linux-arm64-2.1.0.tar.gz
-        sha256: 660b87562494ba263b233cc1bb8479d0c45cc9deda1be3c9dc5e3d421b223956
+        url: https://download.mobilitysuite.de/launcher/linux-arm64-2.1.1.tar.gz
+        sha256: d44649ae5fe23589a4ce30ce8cdff5cb5e80f863e16715fe1ff8a8c1d8c45568
         only-arches: [aarch64]
       - type: file
         path: icon.svg
