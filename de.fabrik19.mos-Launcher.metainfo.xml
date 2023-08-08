@@ -19,13 +19,13 @@
 
     <screenshots>
         <screenshot type="default">
-            <image>https://download.mobilitysuite.de/launcher/linux-2.2.0-1.png</image>
+            <image>https://download.mobilitysuite.de/launcher/linux/2.3.0/screen1.png</image>
         </screenshot>
         <screenshot>
-            <image>https://download.mobilitysuite.de/launcher/linux-2.2.0-2.png</image>
+            <image>https://download.mobilitysuite.de/launcher/linux/2.3.0/screen2.png</image>
         </screenshot>
         <screenshot>
-            <image>https://download.mobilitysuite.de/launcher/linux-2.2.0-3.png</image>
+            <image>https://download.mobilitysuite.de/launcher/linux/2.3.0/screen3.png</image>
         </screenshot>
     </screenshots>
 
@@ -34,6 +34,11 @@
 
     <launchable type="desktop-id">de.fabrik19.mos-Launcher.desktop</launchable>
     <releases>
+        <release version="2.3.0" date="2023-08-08">
+            <description>
+                <p>The project list is now sortable.</p>
+            </description>
+        </release>
         <release version="2.2.0" date="2023-07-31">
             <description>
                 <p>Visual improvements.</p>
