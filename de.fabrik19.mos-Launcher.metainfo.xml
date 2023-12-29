@@ -2,7 +2,7 @@
 <component type="desktop-application">
     <id>de.fabrik19.mos-Launcher</id>
 
-    <name>mos. Launcher</name>
+    <name>mos.launcher</name>
     <summary>Used for developing with the Mobilitysuite</summary>
 
     <metadata_license>CC0-1.0</metadata_license>
@@ -19,21 +19,26 @@
 
     <screenshots>
         <screenshot type="default">
-            <image>https://download.mobilitysuite.de/launcher/linux/2.3.0/screen1.png</image>
+            <image>https://download.mobilitysuite.de/launcher/linux/2.4.0/screen1.png</image>
         </screenshot>
         <screenshot>
-            <image>https://download.mobilitysuite.de/launcher/linux/2.3.0/screen2.png</image>
+            <image>https://download.mobilitysuite.de/launcher/linux/2.4.0/screen2.png</image>
         </screenshot>
         <screenshot>
-            <image>https://download.mobilitysuite.de/launcher/linux/2.3.0/screen3.png</image>
+            <image>https://download.mobilitysuite.de/launcher/linux/2.4.0/screen3.png</image>
         </screenshot>
     </screenshots>
 
-    <url type="homepage">https://fabrik19.de/technologie-produkte/</url>
+    <url type="homepage">https://mobilitysuite.de/</url>
     <content_rating type="oars-1.0" />
 
     <launchable type="desktop-id">de.fabrik19.mos-Launcher.desktop</launchable>
     <releases>
+        <release version="2.4.0" date="2023-12-23">
+            <description>
+                <p>New design. Better project search. Port range is configurable.</p>
+            </description>
+        </release>
         <release version="2.3.0" date="2023-08-08">
             <description>
                 <p>The project list is now sortable.</p>
