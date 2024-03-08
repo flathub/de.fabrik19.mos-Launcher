@@ -3,18 +3,19 @@
     <id>de.fabrik19.mos-Launcher</id>
 
     <name>mos.launcher</name>
-    <summary>Used for developing with the Mobilitysuite</summary>
+    <summary>Used for mobile app development with Mobility Suite mos.</summary>
 
     <metadata_license>CC0-1.0</metadata_license>
     <project_license>LicenseRef-proprietary</project_license>
 
+    <developer id="tld.vendor">
+        <name>Fabrik19 AG</name>
+    </developer>
+
     <description>
-        <p>
-            As part of Fabrik19's full stack development suite, mos.Launcher allows for creating cross-platform,
-            low-code mobile applications for both Android and iOS. Users have the flexibility to create their own
-            projects from scratch, or can accelerate development by using one of our pre-built templates available on
-            GitHub.
-        </p>
+        <p>mos.launcher is part of the mobile app development platform Mobility Suite mos., offered by Fabrik19 AG. This comprehensive suite enables you to create cross-platform native applications using a low-code approach. mos.launcher is used to serve the configuration of your development projects through its integrated server.</p>
+        <p>Use the mos.viewer app (available through Apple App Store and Google Play Store) to scan the QR code provided by mos.launcher to see your development progress in real-time. Additionally, mos.viewer offers small snippets of different parts and modules and explains more complex concepts to show the platform's potential. Furthermore, you can accelerate your mobile app development process by leveraging the publically available pre-built templates available through GitHub.</p>
+        <p>More information on mobilitysuite.de</p>
     </description>
 
     <screenshots>
