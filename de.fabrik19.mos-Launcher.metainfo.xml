@@ -20,13 +20,13 @@
 
     <screenshots>
         <screenshot type="default">
-            <image>https://download.mobilitysuite.de/launcher/linux/2.4.0/screen1.png</image>
+            <image>https://download.mobilitysuite.de/launcher/linux/2.5.0/screen1.png</image>
         </screenshot>
         <screenshot>
-            <image>https://download.mobilitysuite.de/launcher/linux/2.4.0/screen2.png</image>
+            <image>https://download.mobilitysuite.de/launcher/linux/2.5.0/screen2.png</image>
         </screenshot>
         <screenshot>
-            <image>https://download.mobilitysuite.de/launcher/linux/2.4.0/screen3.png</image>
+            <image>https://download.mobilitysuite.de/launcher/linux/2.5.0/screen3.png</image>
         </screenshot>
     </screenshots>
 
@@ -35,6 +35,15 @@
 
     <launchable type="desktop-id">de.fabrik19.mos-Launcher.desktop</launchable>
     <releases>
+        <release version="2.5.0" date="2024-03-25">
+            <description>
+                <ul>
+                    <li>More status information</li>
+                    <li>Updated icons</li>
+                    <li>Updated about</li>
+                </ul>
+            </description>
+        </release>
         <release version="2.4.0" date="2023-12-23">
             <description>
                 <p>New design. Better project search. Port range is configurable.</p>
