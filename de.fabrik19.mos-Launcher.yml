@@ -28,11 +28,11 @@ modules:
     sources:
       - type: archive
         url: https://download.mobilitysuite.de/launcher/linux/2.5.0/linux-x64.tar.gz
-        sha256: 9ffb2aab0baf70c3dbb88954193684f8c99fe8741074b5577abce5cbaa9f6bbf
+        sha256: fdfbc616f3cf3c343f95d6a64ea78796a715a857889466bd2a34271db0ccae18
         only-arches: [x86_64]
       - type: archive
         url: https://download.mobilitysuite.de/launcher/linux/2.5.0/linux-arm64.tar.gz
-        sha256: 680a9167e19a96cd4b2eeae0fe566b6bc2e42c0c5967b8a065032a33ce175916
+        sha256: acf63b43eff3c06ce34be58a66b1451f37a0aa68323c9c874e5cf65721f77f70
         only-arches: [aarch64]
       - type: file
         path: icon.svg
