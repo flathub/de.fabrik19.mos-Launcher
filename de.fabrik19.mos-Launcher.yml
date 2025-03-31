@@ -1,6 +1,6 @@
 app-id: de.fabrik19.mos-Launcher
 runtime: org.freedesktop.Platform
-runtime-version: '23.08'
+runtime-version: "23.08"
 sdk: org.freedesktop.Sdk
 command: mos-launcher
 tags:
@@ -27,12 +27,12 @@ modules:
       - install -D de.fabrik19.mos-Launcher.metainfo.xml /app/share/metainfo/de.fabrik19.mos-Launcher.metainfo.xml
     sources:
       - type: archive
-        url: https://download.mobilitysuite.de/launcher/linux/2.6.0/linux-x64.tar.gz
-        sha256: 5a5d640f2ac4cab0bf530871c63bd8b97579e4ad65c0a9ecef01702ef84146e4
+        url: https://download.mobilitysuite.de/launcher/linux/2.7.0/linux-x64.tar.gz
+        sha256: 9854b122246f8e8db83b8a55689d8e61eea5245b3201f6b16d8141b6408e9a34
         only-arches: [x86_64]
       - type: archive
-        url: https://download.mobilitysuite.de/launcher/linux/2.6.0/linux-arm64.tar.gz
-        sha256: 138c65e08bb3b2e3859b632c1898e013f50390ce17d56b710d25af7522f93e41
+        url: https://download.mobilitysuite.de/launcher/linux/2.7.0/linux-arm64.tar.gz
+        sha256: f2c32a513a9bc7bbe7d7a6a68609861bab082bec00347b2a268a91a8c463caab
         only-arches: [aarch64]
       - type: file
         path: icon.svg
