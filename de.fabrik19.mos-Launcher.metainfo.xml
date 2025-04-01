@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <component type="desktop-application">
     <id>de.fabrik19.mos-Launcher</id>
 
@@ -12,21 +12,27 @@
         <name>Fabrik19 AG</name>
     </developer>
 
+
     <description>
-        <p>mos.launcher is part of the mobile app development platform Mobility Suite mos., offered by Fabrik19 AG. This comprehensive suite enables you to create cross-platform native applications using a low-code approach. mos.launcher is used to serve the configuration of your development projects through its integrated server.</p>
-        <p>Use the mos.viewer app (available through Apple App Store and Google Play Store) to scan the QR code provided by mos.launcher to see your development progress in real-time. Additionally, mos.viewer offers small snippets of different parts and modules and explains more complex concepts to show the platform's potential. Furthermore, you can accelerate your mobile app development process by leveraging the publically available pre-built templates available through GitHub.</p>
+        <p
+        >mos.launcher is part of the mobile app development platform Mobility Suite mos., offered by Fabrik19 AG. This comprehensive suite enables you to create cross-platform native applications using a low-code approach. mos.launcher is used to serve the configuration of your development projects through its integrated server.</p>
+        <p
+        >Use the mos.viewer app (available through Apple App Store and Google Play Store) to scan the QR code provided by mos.launcher to see your development progress in real-time. Additionally, mos.viewer offers small snippets of different parts and modules and explains more complex concepts to show the platform's potential. Furthermore, you can accelerate your mobile app development process by leveraging the publically available pre-built templates available through GitHub.</p>
         <p>More information on mobilitysuite.de</p>
     </description>
 
     <screenshots>
         <screenshot type="default">
-            <image>https://download.mobilitysuite.de/launcher/linux/2.6.0/screen1.png</image>
+            <image
+            >https://download.mobilitysuite.de/launcher/linux/2.7.0/screen1.png</image>
         </screenshot>
         <screenshot>
-            <image>https://download.mobilitysuite.de/launcher/linux/2.6.0/screen2.png</image>
+            <image
+            >https://download.mobilitysuite.de/launcher/linux/2.7.0/screen2.png</image>
         </screenshot>
         <screenshot>
-            <image>https://download.mobilitysuite.de/launcher/linux/2.6.0/screen3.png</image>
+            <image
+            >https://download.mobilitysuite.de/launcher/linux/2.7.0/screen3.png</image>
         </screenshot>
     </screenshots>
 
@@ -35,6 +41,19 @@
 
     <launchable type="desktop-id">de.fabrik19.mos-Launcher.desktop</launchable>
     <releases>
+        <release version="2.7.0" date="2025-03-31">
+            <description>
+                <ul>
+                    <li>Using .NET 8</li>
+                    <li
+                    >Fixed an issue where the application started too big.</li>
+                    <li
+                    >Fixed an issue where the search was not used after the project list was reloaded.</li>
+                    <li>Added a copy function to the QR code.</li>
+                    <li>Added a better overview over the show case apps.</li>
+                </ul>
+            </description>
+        </release>
         <release version="2.6.0" date="2024-10-04">
             <description>
                 <ul>
@@ -53,7 +72,8 @@
         </release>
         <release version="2.4.0" date="2023-12-23">
             <description>
-                <p>New design. Better project search. Port range is configurable.</p>
+                <p
+                >New design. Better project search. Port range is configurable.</p>
             </description>
         </release>
         <release version="2.3.0" date="2023-08-08">
@@ -73,9 +93,10 @@
         </release>
         <release version="2.1.0" date="2023-06-28">
             <description>
-                <p>mos. Launcher has undergone a design overhaul to enhance user experience and accommodate new and upcoming features.</p>
+                <p
+                >mos. Launcher has undergone a design overhaul to enhance user experience and accommodate new and upcoming features.</p>
             </description>
         </release>
-        <release version="2.0.8" date="2023-06-20"/>
+        <release version="2.0.8" date="2023-06-20" />
     </releases>
 </component>
