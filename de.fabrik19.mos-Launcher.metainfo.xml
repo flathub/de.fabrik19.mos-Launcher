@@ -41,6 +41,18 @@
 
     <launchable type="desktop-id">de.fabrik19.mos-Launcher.desktop</launchable>
     <releases>
+        <release version="2.7.1" date="2025-04-09">
+            <description>
+                <ul>
+                    <li
+                    >Better support for special characters in the project path</li>
+                    <li>Fixed an issue with the creation of empty projects.</li>
+                    <li
+                    >Fixed an issue where changing a lot of files at once (e.g. by switching to another branch) may result in a high system load.</li>
+                    <li>Fixed the scrolling of the main view.</li>
+                </ul>
+            </description>
+        </release>
         <release version="2.7.0" date="2025-03-31">
             <description>
                 <ul>
