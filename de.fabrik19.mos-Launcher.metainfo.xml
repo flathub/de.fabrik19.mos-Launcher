@@ -41,6 +41,14 @@
 
     <launchable type="desktop-id">de.fabrik19.mos-Launcher.desktop</launchable>
     <releases>
+        <release version="2.8.1" date="2026-01-20">
+            <description>
+                <ul>
+                    <li>Improved the server start.</li>
+                    <li>Improved the logs.</li>
+                </ul>
+            </description>
+        </release>
         <release version="2.8.0" date="2026-01-16">
             <description>
                 <ul>
