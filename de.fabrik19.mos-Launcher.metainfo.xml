@@ -26,13 +26,13 @@
 
     <screenshots>
         <screenshot type="default">
-            <image>https://download.mobilitysuite.de/launcher/linux/2.8.0/screen1.png</image>
+            <image>https://download.mobilitysuite.de/launcher/linux/2.9.0/screen1.png</image>
         </screenshot>
         <screenshot>
-            <image>https://download.mobilitysuite.de/launcher/linux/2.8.0/screen2.png</image>
+            <image>https://download.mobilitysuite.de/launcher/linux/2.9.0/screen2.png</image>
         </screenshot>
         <screenshot>
-            <image>https://download.mobilitysuite.de/launcher/linux/2.8.0/screen3.png</image>
+            <image>https://download.mobilitysuite.de/launcher/linux/2.9.0/screen3.png</image>
         </screenshot>
     </screenshots>
 
@@ -41,6 +41,13 @@
 
     <launchable type="desktop-id">de.fabrik19.mos-Launcher.desktop</launchable>
     <releases>
+        <release version="2.9.0" date="2026-09-16">
+            <description>
+                <ul>
+                    <li>Support for mos.5.</li>
+                </ul>
+            </description>
+        </release>
         <release version="2.8.1" date="2026-01-20">
             <description>
                 <ul>
