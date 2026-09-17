@@ -41,6 +41,13 @@
 
     <launchable type="desktop-id">de.fabrik19.mos-Launcher.desktop</launchable>
     <releases>
+        <release version="2.9.1" date="2026-09-17">
+            <description>
+                <ul>
+                    <li>Fix for projects without views.</li>
+                </ul>
+            </description>
+        </release>
         <release version="2.9.0" date="2026-09-16">
             <description>
                 <ul>
